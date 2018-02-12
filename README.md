@@ -14,7 +14,7 @@ if half cut data - like a single DNA - to repair the original data, depend the n
 ZIP what? this theory press rate base the 50%.
 
 ## press rate method
-A+B=100%, A+f(B)=50% + f(B). (if f(B)<50% mean the press-ed)
+DATA=100%=A+B, A+f(B)=50% + f(B). (if f(B)<50% mean the press-ed)
 ```ex) 100GB =>zHAND=> 50GB + f(B)```
 
 ## f(B) to original. how to do? use sampling theroy
