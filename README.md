@@ -20,3 +20,6 @@ DATA=100%=A+B, A+f(B)=50% + f(B). (if f(B)<50% mean the press-ed)
 ## f(B) to original. how to do? use sampling theroy
 
 press nest can be possible.
+
+## ウラムの螺旋
+素因数分解は困難である。ウラムの螺旋判定により、素因数の傾向がわかれば、例えば、象限がわかるだけでも、計算量を四分の一にできる。
